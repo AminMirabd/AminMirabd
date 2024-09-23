@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AminMirabd?cardType=github&theme=algolia&preferLogin=false)](https://git.io/awesome-stats-card)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AminMirabd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://myreadme.vercel.app/api/embed/AminMirabd?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
